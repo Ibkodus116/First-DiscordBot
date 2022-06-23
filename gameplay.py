@@ -1,7 +1,7 @@
 import discord 
 import random
 import os
-from main import username
+
 
 computer = ['R', 'P', 'S']
 p = 'Paper'
